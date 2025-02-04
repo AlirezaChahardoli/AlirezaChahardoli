@@ -37,5 +37,5 @@ With a curious mind and a relentless drive for growth, I’m not just building m
 
 ## 📫 Let's Connect  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/alireza-chahardoli-783b82163/)
-- [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle&style=flat-square)]([https://www.kaggle.com/your-username](https://www.kaggle.com/alirezachahardoli/code))
+- [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle&style=flat-square)](https://www.kaggle.com/alirezachahardoli/code)
 - [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&style=flat-square)](1349a1377@gmail.com)
