@@ -1,8 +1,7 @@
 # 👋 Hello, I'm Alireza Chahardoli!
-
-🚀 **Computer Vision Enthusiast | Deep Learning Student**  
-💡 Constantly pushing boundaries in AI and building custom models from scratch.  
-🔍 Passionate about creating intelligent systems using CNNs, ResNet, and creative architectures.
+🚀 **Computer Vision Enthusiast | Deep Learning Student.**  
+💡 **Constantly pushing boundaries in AI and building custom models from scratch.**  
+🔍 **Passionate about creating intelligent systems using CNNs, ResNet, and creative architectures.**
 
 ---
 
