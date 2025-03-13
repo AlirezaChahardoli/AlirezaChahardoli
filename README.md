@@ -7,18 +7,19 @@
 
 ## 🏆 Featured Projects
 
+### **Computer Vision Projects**
+- **[🚨Alarm system- Built from Scratch 🚨](https://www.linkedin.com/feed/update/urn:li:activity:7303618449254051840/)** **I’m excited to share my first Computer Vision project where I built an Color-Based object detection system from scratch without any pre-trained models — just using OpenCV and Python** .
+
+
+-  **🚨[Driver Drowsiness Detection from Scratch](https://github.com/AlirezaChahardoli/Driver_Drowsiness_Detection)(Github) and in [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7305265296754294786/)** **I built a simple driver** **drowsiness detection system from scratch that uses computer vision to track blink counts and detect prolonged eye closure, triggering an alert!😴🚨**
+
+
 ### 🔧 **Custom Image Classification Models**
 - 🧥 [**Fashion MNIST Classifier**](https://github.com/AlirezaChahardoli/Fashion-MNIST-Classification-with-PyTorch) 
    Built a fully custom CNN model from scratch with **Skip Connections** and **Learning Rate Scheduling** in PyTorch. Achieved competitive accuracy!
 
 - 🔢 [**MNIST Classifier**](https://github.com/AlirezaChahardoli/MNIST-Classification-with-PyTorch) 
    Achieved **96% test accuracy** using a lightweight custom CNN.
-
----
-
-### **Computer Vision Projects**
--  **I dedicate myself to learning and experimenting daily to create innovative **[Computer Vision](https://en.wikipedia.org/wiki/Computer_vision)** solutions.**
-
 ---
 
 ## 🛠️ Tech Stack
