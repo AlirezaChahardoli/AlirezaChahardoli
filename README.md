@@ -10,12 +10,17 @@
 ### **Computer Vision Projects:**
 - **[🚀AI that sees numbers and speaks 🗣️ all from scratch!🤖](https://www.linkedin.com/feed/update/urn:li:activity:7309933276595412992/)**
 **Using PyTorch I created a custom CNN model trained on [MNIST](https://github.com/AlirezaChahardoli/MNIST-Classification-with-PyTorch) and deployed it with OpenCV to create a fully interactive AI system.**
+**What does it do?**
+**🎨 Draw any digit on screen.**
+**⚡ Instantly predicts your input in real-time.**
+**🗣 Speaks the result back to you.**
+___
 - **[🚨Alarm system- Built from Scratch 🚨](https://www.linkedin.com/feed/update/urn:li:activity:7303618449254051840/)** **I’m excited to share my first Computer Vision project where I built an Color-Based object detection system from scratch without any pre-trained models — just using OpenCV and Python** .
 
-
+___
 -  **🚨[Driver Drowsiness Detection from Scratch](https://github.com/AlirezaChahardoli/Driver_Drowsiness_Detection)(Github) and in [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7305265296754294786/)** **I built a simple driver** **drowsiness detection system from scratch that uses computer vision to track blink counts and detect prolonged eye closure, triggering an alert!😴🚨**
 
-
+___
 ### 🔧 **Custom Image Classification Models**
 - 🧥 [**Fashion MNIST Classifier**](https://github.com/AlirezaChahardoli/Fashion-MNIST-Classification-with-PyTorch) 
    Built a fully custom CNN model from scratch with **Skip Connections** and **Learning Rate Scheduling** in PyTorch. Achieved competitive accuracy!
@@ -26,7 +31,7 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** Python  
-- **Deep Learning Frameworks:** **[PyTorch](https://pytorch.org/)**  
+- **Deep Learning Frameworks:** **[PyTorch](https://pytorch.org/) & [OpenCV](https://opencv.org/university/free-opencv-course/?utm_source=google&utm_medium=cpc&utm_campaign=WW_opencv_OBC&utm_term=opencv&gad_source=1&gclid=Cj0KCQjwy46_BhDOARIsAIvmcwOU9Ng-zlT7g60HFpTsOq3SJE0VVt9nVnbnuWNto_b2D6YxmcR_g7saAh6_EALw_wcB)**  
 - **Computer Vision Techniques:** Classification,CNNs, ResNet, YOLO, Data Augmentation,Skip Connections,Learning rates. 
 - **Development Tools:** GitHub, Git, Jupyter Notebook,**[Kaggle](https://www.kaggle.com/alirezachahardoli/code)**  
 
